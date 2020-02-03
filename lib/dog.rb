@@ -10,4 +10,8 @@ fido.bark
 bark 
 
 class Dog
-  def 
+  def sit
+    puts "The dog is sitting"
+  end
+end
+
